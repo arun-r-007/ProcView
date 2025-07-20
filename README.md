@@ -1,4 +1,4 @@
-# 🧠  Process Manager – A Real-Time Linux Terminal-Based Process Viewer in C
+# 🧠  ProcView – A Real-Time Linux Terminal-Based Process Viewer in C
 
 A colorful, real-time, terminal-based process manager written in **C** for Linux systems. This project mimics a simplified version of tools like `top` or `htop`, displaying critical process information directly from the `/proc` filesystem.
 
