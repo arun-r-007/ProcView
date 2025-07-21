@@ -57,17 +57,9 @@ Inspired by classic tools like `top` and `htop`, ProcView provides a color-coded
 
 ## Sample Output
 
-```
-Process Manager
-=================
-Press 'q' to exit, 'a' to show all processes.
-PID        Process Name                       Status                  CPU Usage                                                      RSS (MB)   VSZ (MB)   Threads
------------------------------------------------------------------------------------------------------------------------------------------------------------
-1024       bash                               Sleeping                [#########################                         ] 43%      3.48       120.55      1
-1456       code                               Running                 [#########################################         ] 78%      254.63     1200.48     25
-...
-```
+![Demo Image](https://github.com/user-attachments/assets/e6b5fc23-f1a6-4f5a-9e4f-a30c85a60a13)
 
+---
 
 ## Testing Notes
 
