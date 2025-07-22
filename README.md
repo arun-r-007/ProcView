@@ -66,4 +66,3 @@ Inspired by classic tools like `top` and `htop`, ProcView provides a color-coded
 * Tested on: **Ubuntu 22.04 LTS**, **WSL**, and **VirtualBox-based Linux**
 * May require elevated permissions to access certain process details.
 * Works best in terminal emulators that support ANSI codes.
-
